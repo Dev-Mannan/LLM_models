@@ -11,7 +11,7 @@ all set .... have fun
 .. image:: https://mybinder.org/badge_logo.svg
  :target: https://mybinder.org/v2/gh/Dev-Mannan/LLM_models/main?labpath=https%3A%2F%2Fgithub.com%2FDev-Mannan%2FLLM_models%2Fblob%2Fmain%2FText_to_Image.ipynb
 
-
+OpenAI 
 first LLM application built using Langchain & Open AI LLM 
 upoloaded 4 flies
 
