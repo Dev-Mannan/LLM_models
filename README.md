@@ -15,6 +15,5 @@ OpenAI
 first LLM application built using Langchain & Open AI LLM 
 upoloaded 4 flies
 
-jdhduhduhwqoiu
+Recent Update : Added Langchain ipynb in which simple sequential  chain practically implemented 
 
-hdhqwidoiwq
