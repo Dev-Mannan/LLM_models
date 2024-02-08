@@ -18,6 +18,6 @@ upoloaded 4 flies
 Recent Update :Added Output Parser ipynb , & going to add chatbot 
 Today Going to add : 1 chatbot
                      2 A Streamlit AI tool
+                     3 A Pdf reader & summariser tool
 
-
-
+ 
