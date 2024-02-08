@@ -15,8 +15,8 @@ OpenAI
 first LLM application built using Langchain & Open AI LLM 
 upoloaded 4 flies
 
-Recent Update : Added Langchain ipynb in which simple sequential  chain practically implemented also in depth Prompt template Understanding using langchain.chains mechanisim to adjuscent dual llm model
-Understood Difference between system message & Human message using Lancgchain chatmodel template
+Recent Update :Added Output Parser ipynb , & going to add chatbot 
+
 
 
 
